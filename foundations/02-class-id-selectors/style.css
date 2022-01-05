@@ -1,0 +1,22 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.odd {
+  background-color: rgb(245, 123, 109);
+  font-family: Verdana, sans-serif;
+}
+
+.large {
+  font-size: 24px;
+}
+
+#div2 {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#div4 {
+  background-color: rgb(79, 233, 79);
+  font-weight: bold;
+}
